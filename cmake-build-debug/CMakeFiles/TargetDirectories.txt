@@ -1,3 +1,0 @@
-/home/mateuszskowron/CLionProjects/MemLoader-Cpp/cmake-build-debug/CMakeFiles/MemLoader-cpp.dir
-/home/mateuszskowron/CLionProjects/MemLoader-Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mateuszskowron/CLionProjects/MemLoader-Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
