@@ -1,5 +1,5 @@
 # MemLoader-Cpp
-Simple app to download and display memes from a popular mem website kwejk.pl
+Simple console app to download and display memes from a popular mem website kwejk.pl
 
 ### Dependencies
 - CMake 3.22 or higher
