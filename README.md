@@ -2,20 +2,34 @@
 Simple app to download and display memes from a popular mem-website kwejk.pl
 
 ### Dependencies
+- CMake 3.22 or higher
+
 Make sure to have these libraries installed:
 - libcurl
     ```
     sudo apt-get install libcurl4-gnutls-dev
     ```
-- openCV
+- OpenCV
 
-    [How to install OpenCV](https://medium.com/@pokhrelsuruchi/setting-up-opencv-for-python-and-c-in-ubuntu-20-04-6b0331e37437)
-### Compilation
+  [How to install OpenCV](https://medium.com/@pokhrelsuruchi/setting-up-opencv-for-python-and-c-in-ubuntu-20-04-6b0331e37437)
+### How to compile
+Create a build directory
 ```
-cmake .
-make all
+mkdir build
 ```
-### Run
+Go inside
+```
+cd build
+```
+Run cmake and point to the parent directory
+```
+cmake ..
+```
+Run make
+```
+make
+```
+Run program
 ```
 ./MemLoader-cpp
 ```
