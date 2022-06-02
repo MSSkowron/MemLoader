@@ -14,8 +14,6 @@ Make sure to have these libraries installed:
     $ sudo apt-get install libcurl4-gnutls-dev
     ```
 - OpenCV
-  
-  If doesn't work try this:
 
   [How to install OpenCV](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/)
 ### How to compile
