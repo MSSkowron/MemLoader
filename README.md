@@ -2,8 +2,8 @@
 Simple console app to download and display memes from a popular mem website kwejk.pl
 
 ### Technologies
-- **Libcurl** was used to get website's HTML and download images.
-- **OpenCV** was used to display images.
+- **Libcurl** used to get website's HTML and download images.
+- **OpenCV** used to display images.
 
 ### Dependencies
 - CMake 3.22 or higher
