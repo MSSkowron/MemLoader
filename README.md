@@ -15,9 +15,6 @@ Make sure to have these libraries installed:
     ```
 - OpenCV
   
-  ```
-  $ sudo apt install libopencv-dev python3-opencv
-  ```
   If doesn't work try this:
 
   [How to install OpenCV](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/)
