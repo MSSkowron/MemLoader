@@ -3,6 +3,7 @@ Simple console app to download and display memes from a popular mem website kwej
 
 ### Technologies
 - Libcurl was used to get website's HTML and download images.
+- <mark>Marked text</mark>
 - OpenCV was used to display images.
 
 ### Dependencies
