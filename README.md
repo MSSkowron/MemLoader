@@ -18,11 +18,6 @@ Make sure to have these libraries installed:
   ```
   $ sudo apt install libopencv-dev python3-opencv
   ```
-  
-  Verify the installation by importing the cv2 module and printing OpenCV version:
-  ```
-  $ python3 -c "import cv2; print(cv2.__version__)"
-  ```
   If doesn't work try this:
 
   [How to install OpenCV](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/)
