@@ -27,7 +27,7 @@ Make sure to have these libraries installed:
 
   [How to install OpenCV](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/)
 ### How to compile
-Create a build directory
+Create a build directory in the project folder
 ```
 mkdir build
 ```
