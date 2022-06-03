@@ -49,4 +49,4 @@ Using ENTER we go next.
 
 We can choose if we want to display images or no. If yes, when first image is displayed we switch to the next one using any key on the keyboard.
 
-At the end all downloaded images are in our project directory.
+At the end all downloaded images are in our project's directory.
