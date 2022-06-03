@@ -41,6 +41,6 @@ Run program
 ```
 ### How to use
 
-After starting application instructs us what to do next.
+After running, application instructs us what to do next.
 
 When first image is displayed we switch to the next one using any key on the keyboard.
